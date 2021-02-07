@@ -12,6 +12,10 @@ for(var i=myGithub.length-1 ; i>-1 ; i--){
 console.log(myName)
 ```
 
+ 📫 Contact me: thanawat.k2000@gmail.com
+                 www.tongog.com
+
+
 <!--
 **algnot/algnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
