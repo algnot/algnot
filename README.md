@@ -1,5 +1,5 @@
 ### Hi there 👋
-"My name is TG. I come from Thailand ⚡" - TG mean Tongla
+"My name is TG. I come from Thailand ⚡" - TG mean code below 👇
 
 ```javascript
 let myGithub = 'algnot'
