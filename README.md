@@ -13,7 +13,7 @@ console.log(myName)
 ```
 
  📫 Contact me: thanawat.k2000@gmail.com
-                 www.tongog.com
+ ⚡ My website: www.tongog.com
 
 
 <!--
