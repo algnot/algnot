@@ -17,10 +17,11 @@ console.log(myName)
  
  <hr>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)
+ <div>
+   <div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)</div>
+   <div>![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)</div>
+ </div>
 
- 
 <!--
 **algnot/algnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
