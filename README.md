@@ -15,8 +15,8 @@ console.log(myName)
  📫 Contact me: thanawat.k2000@gmail.com <br>
  ⚡ My website: www.tongog.com
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)
 
  
 <!--
