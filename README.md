@@ -14,14 +14,9 @@ console.log(myName)
 
  📫 Contact me: thanawat.k2000@gmail.com <br>
  ⚡ My website: www.tongog.com
- 
  <hr>
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=algnot)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **algnot/algnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
