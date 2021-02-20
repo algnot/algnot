@@ -11,7 +11,7 @@ for(var i=myGithub.length-1 ; i>-1 ; i--){
 
 console.log(myName)
 ```
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
  📫 Contact me: thanawat.k2000@gmail.com <br>
