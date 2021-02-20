@@ -11,10 +11,12 @@ for(var i=myGithub.length-1 ; i>-1 ; i--){
 
 console.log(myName)
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)
 
  📫 Contact me: thanawat.k2000@gmail.com <br>
  ⚡ My website: www.tongog.com
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)
+
  
 <!--
 **algnot/algnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
