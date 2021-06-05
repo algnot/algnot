@@ -12,8 +12,10 @@ for(var i=myGithub.length-1 ; i>-1 ; i--){
 console.log(myName)
 ```
 
- 📫 Contact me: thanawat.k2000@gmail.com <br>
- ⚡ My website: www.tongog.com <br><br>
+ 📫 Contact me: thanawat.k2000@gmail.com <br> <br>
+ <!--
+ ⚡ My website: www.tongog.com 
+-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)
 
 <!--
