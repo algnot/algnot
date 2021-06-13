@@ -16,7 +16,7 @@ console.log(myName)
  <!--
  ⚡ My website: www.tongog.com 
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=algnot&show_icons) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algnot)
 
 
