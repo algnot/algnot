@@ -1,4 +1,4 @@
-<a align="center" href="https://algnot.github.io/me/">
+<a style="text-align:center;" href="https://algnot.github.io/me/">
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:);Click+me+!!!">
 </a>
 <br/>
