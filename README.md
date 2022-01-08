@@ -1,8 +1,6 @@
-<div style="margin:40px 20px;">
 <a style="text-align:center;" target="_blank" href="https://algnot.github.io/me/">
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:);Click+me+!!!">
 </a>
-</div>
 <br/>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
