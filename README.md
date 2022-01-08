@@ -18,7 +18,7 @@
 
 [![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
 <br/>
-<h2>My Skill Set✨</h2>
+<h2>My Skill Set ✨</h2>
 
 #### Frontend
  <div style="display:flex; gap:10px;">
