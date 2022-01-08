@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:)">
 </p>
 
-"My name is TG. I come from Thailand ⚡" - TG mean code below 👇
-
 ```javascript
 let myGithub = 'algnot'   
 let myName = ''
