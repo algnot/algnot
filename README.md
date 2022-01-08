@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:)">
 </p>
-
+<br/>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
 <h2>Connect with me ✋</h2>
@@ -16,7 +16,7 @@
 <h2>Now Playing 🎵</h2>
 
 [![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
-
+<br/>
 <h2>My Skill Set✨</h2>
 
 #### Frontend
