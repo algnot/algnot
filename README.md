@@ -1,4 +1,9 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Happy Hacking!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:)">
+</p>
+
 "My name is TG. I come from Thailand ⚡" - TG mean code below 👇
 
 ```javascript
@@ -15,3 +20,5 @@ console.log(myName)
  📫 Contact me: thanawat.k2000@gmail.com <br> <br>
  
 <details><summary>do not click!!</summary>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br></details>
+
+
