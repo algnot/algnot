@@ -20,8 +20,8 @@
 <br/>
 <h2>My Skill Set✨</h2>
 
-<div style="display: flex; grid-template-columns:1fr 1fr;">
-  <div>
+<div style="display: flex;">
+  <span>
         Frontend
        <div style="display:flex; gap:10px;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -33,8 +33,8 @@
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
       </div>
-  </div>
-  <div>
+  </span>
+  <span>
       Backend
       <div style="display:flex; gap:10px;">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       </div>
-  </div>
+  </span>
 </div>
 
 #### Programming Skills
