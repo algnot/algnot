@@ -15,7 +15,7 @@
 
 <h2>Now Playing 🎵</h2>
 
-[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/playlist/31lLtUukhLlMa0ZjM0AswY)
+[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
 
 <h2>My Skill Set✨</h2>
 
