@@ -20,9 +20,9 @@
 <br/>
 <h2>My Skill Set✨</h2>
 
-<div style="display: grid; grid-template-columns:1fr 1fr;">
+<div style="display: flex; grid-template-columns:1fr 1fr;">
   <div>
-        #### Frontend
+        Frontend
        <div style="display:flex; gap:10px;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -35,7 +35,7 @@
       </div>
   </div>
   <div>
-      #### Backend
+      Backend
       <div style="display:flex; gap:10px;">
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
