@@ -20,6 +20,7 @@
 <br/>
 <h2>My Skill Set ✨</h2>
 
+<div>
  <div style="display:flex; gap:10px;" align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,6 +41,7 @@
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       </div>
+ </div>
 
 #### Programming Skills
 <div style="display:flex; gap:10px;">
