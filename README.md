@@ -5,7 +5,7 @@
 <br/> <br/> <br/> <br/>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
-<h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
 <a target="_blank" href="https://web.facebook.com/glatnw/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a target="_blank" href="https://www.instagram.com/algnott/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="https://twitter.com/tongogwanttodie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
