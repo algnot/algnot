@@ -12,4 +12,5 @@ for(var i=myGithub.length-1 ; i>-1 ; i--){
 console.log(myName)
 ```
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
  📫 Contact me: thanawat.k2000@gmail.com <br> <br>
