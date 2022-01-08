@@ -14,7 +14,7 @@
 <a href="https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/31lLtUukhLlMa0ZjM0AswY)
+[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/playlist/31lLtUukhLlMa0ZjM0AswY)
 
 <h2>My Skill Set</h2>
 
