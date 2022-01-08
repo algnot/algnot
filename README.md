@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:)">
 </p>
 
-####
-<div style="display:flex; justify-content: space-between; align-item:center;">
+
+<div style="display:flex; justify-content: space-between; aligns-item:center;">
   <span><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Connect with me </span>
   <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 </div>
