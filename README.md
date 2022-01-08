@@ -11,10 +11,7 @@ for(var i=myGithub.length-1 ; i>-1 ; i--){
 
 console.log(myName)
 ```
-
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
  📫 Contact me: thanawat.k2000@gmail.com <br> <br>
  
- [![wakatime](https://wakatime.com/badge/user06d390ee-6e6f-47ba-afed-de61f0d460c8.svg?style=social)](https://wakatime.com/@06d390ee-6e6f-47ba-afed-de61f0d460c8)
-
 <details><summary>do not click!!</summary>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br></details>
