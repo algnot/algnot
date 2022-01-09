@@ -3,11 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:);Click+me+!!!">
 </a>
 <br/> <br/> <br/> <br/>
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
 #### Time to coding
 
 [![wakatime](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/e6fbca87-d60b-40ae-b1de-0b2d30a0700e.svg)](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/e6fbca87-d60b-40ae-b1de-0b2d30a0700e)
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
 <h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
 <a target="_blank" href="https://web.facebook.com/glatnw/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
