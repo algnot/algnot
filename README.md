@@ -21,9 +21,7 @@
 <br/> <br/> <br/>
 <h2>Now Playing 🎵</h2>
 
-[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/playlist/7GQ7rG2IwosFaQKMxJFv6j)
-
-<a target="_blank" href="https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq"><img src="https://img.shields.io/badge/Spotify-00B341?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
 <br/> <br/> <br/>
 
 <h2>My Skill Set ✨</h2>
