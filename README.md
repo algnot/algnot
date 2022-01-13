@@ -1,6 +1,6 @@
 <br/> <br/> 
 <a style="text-align:center;" target="_blank" href="https://algnot.github.io/me/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:);Click+me+!!!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:);Click+me+!!!">
 </a>
 <br/> <br/> <br/> <br/>
 
