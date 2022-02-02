@@ -58,12 +58,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
-
-<br/> <br/>
-
-<details><summary>do not click!!</summary>
-(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>
-<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algnot&theme=buefy&layout=compact&icon_color=ffffff&text_color=ffffff&bg_color=18191A" /><br>
-(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br>(╯°□°）╯︵ ┻━┻<br></details>
-
-
