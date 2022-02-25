@@ -6,7 +6,7 @@
 
 #### Time to coding
 
-[![wakatime](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/e6fbca87-d60b-40ae-b1de-0b2d30a0700e.svg)](https://www.instagram.com/algnott/)
+[![wakatime](https://wakatime.com/badge/github/algnot/god-gun-app.svg)](https://wakatime.com/badge/github/algnot/god-gun-app)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
