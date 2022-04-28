@@ -59,6 +59,9 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
+
+<br/>
+
 <details>
 <summary>do not click!!</summary>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=algnot&theme=tokyonight&langs_count=6" /> 
