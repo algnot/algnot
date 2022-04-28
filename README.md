@@ -58,3 +58,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
+
+<img height="220rem" src="https://github-readme-stats.vercel.app/api/?username=algnot&count_private=true&theme=tokyonight&showicons=true" />
