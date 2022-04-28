@@ -59,4 +59,4 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
-<img height="220rem" src="https://github-readme-stats.vercel.app/api/?username=algnot&count_private=true&theme=tokyonight&showicons=true" />
+<img height="220rem" width="250rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algnot&theme=tokyonight&langs_count=6" /> &
