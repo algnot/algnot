@@ -8,7 +8,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/74468c04-3a8a-4dbd-8276-3bec01192afb.svg)](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/74468c04-3a8a-4dbd-8276-3bec01192afb)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@a43d2695-e604-4a8c-b32c-c1250f4e5b1e/4f66296c-6b74-426d-b370-8c38a8b2444e.png" /></a>
+<img src="https://wakatime.com/share/@a43d2695-e604-4a8c-b32c-c1250f4e5b1e/4f66296c-6b74-426d-b370-8c38a8b2444e.png" style="width:80px" />
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
