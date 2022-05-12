@@ -6,6 +6,7 @@
 
 #### Time to coding
 <img src="https://wakatime.com/share/@a43d2695-e604-4a8c-b32c-c1250f4e5b1e/366d3454-d994-4dbf-a8fd-804323ca7810.png" style="width:400px" />
+<figure><embed src="https://wakatime.com/share/@a43d2695-e604-4a8c-b32c-c1250f4e5b1e/7ebc6d26-5837-4ca0-acd7-05c7e305e80f.svg"></embed></figure>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
 
