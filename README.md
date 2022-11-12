@@ -4,11 +4,6 @@
 </a>
 <br/> <br/> <br/> <br/>
 
-#### Time to coding
-[![wakatime](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/74468c04-3a8a-4dbd-8276-3bec01192afb.svg)](https://wakatime.com/badge/user/a43d2695-e604-4a8c-b32c-c1250f4e5b1e/project/74468c04-3a8a-4dbd-8276-3bec01192afb)
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=algnot&repo=algnot&countColorcountColor&countColor=%237B1E7B"/>
-
 <h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
 <a target="_blank" href="https://web.facebook.com/glatnw/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a target="_blank" href="https://www.instagram.com/algnott/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
