@@ -11,7 +11,7 @@
 
 ``` 
  - 🔭 I'm currently studying on KMITL!
- - 🌱 I'm currently learning Node.js, Python, Go (again) and other cool stuff!
+ - 🌱 I'm currently learning Node.js (again), Python and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 📫 How to reach me: 
       - [discord](https://discord.com/users/254255680612073473)  
