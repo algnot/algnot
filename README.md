@@ -1,10 +1,6 @@
-<br/> <br/> 
-<a style="text-align:center;" target="_blank" href="https://algnot.github.io/me/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=FF0000&size=25&center=true&vCenter=true&lines=My+name+is+tongla!;Nice+to+meet+you+:);Click+me+!!!">
-</a>
-<br/> <br/> <br/> <br/>
-
-<h2>Connect with me <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="margin-left:5px;" width="30px"></h2>
+# 👋 Hello world I'm algnot 
+[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
+<br/> 
 <a target="_blank" href="https://web.facebook.com/glatnw/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a target="_blank" href="https://www.instagram.com/algnott/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href="https://twitter.com/tongogwanttodie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -12,11 +8,8 @@
 <a target="_blank" href="https://thanawat-k2000.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a target="_blank" href="mailto:thanawat.k2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://steamcommunity.com/id/algnot/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<br/> <br/> <br/>
-<h2>Now Playing 🎵</h2>
-
-[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
-<br/>
+<br/> 
+<br/> 
 
 <details>
 <summary><b>Frontend Skills</b> ✨</summary>
@@ -32,8 +25,6 @@
 </span>
 </details>
 
-
-<br/>
 <details>
 <summary><b>Backend Skills</b> ✨</summary>
 <span style="display:flex; gap:10px;">
@@ -46,7 +37,6 @@
 </span>
 </details>
 
-<br/>
 <details>
 <summary><b>Programming Skills</b> ✨</summary>
   <div style="display:flex; gap:10px;">
