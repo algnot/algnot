@@ -60,8 +60,3 @@
 
 <br/>
 
-<details>
-<summary>do not click!!</summary>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=algnot&theme=tokyonight&langs_count=6" /> 
- </details>
-
