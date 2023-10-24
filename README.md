@@ -55,5 +55,6 @@
 </div>
 </details>
 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000518.01faca25087e47cd9990921c0a2f67c1.1339)](https://music.apple.com/profile/algnot)
 
-[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
+<!--- [![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq) */ --->
