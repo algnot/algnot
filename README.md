@@ -11,11 +11,11 @@
 
 ``` 
  - 🔭 I'm currently studying on KMITL!
- - 🌱 I'm currently learning Node.js (again), Python and other cool stuff!
+ - 🌱 I'm currently learning Node.js, Python and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 📫 How to reach me: 
       - [discord](https://discord.com/users/254255680612073473)  
-      - [other](mailto:thanawat.k2000@gmail.com)
+      - [other](mailto:thanawat.tongla@gmail.com)
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
 ```
