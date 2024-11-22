@@ -41,4 +41,4 @@
   </tr>
  </table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algnot&icon_color=79ff97&text_color=9f9f9f&bg=151515" alt="algnot" /></p>
+[![algnot's GitHub | Languages Over Time](https://stats.quira.sh/algnot/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=algnot)
