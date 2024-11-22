@@ -18,13 +18,15 @@
 ```
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
- <img src="https://trackify.am/api/og/user?id=1383585&past=all&version=1" width="48%" />
- <img src="https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify" width="48%"/>
+ <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21sngcvfnm2hsogmv2rfut3kq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="28%"/>
+ <img src="https://trackify.am/api/og/user?id=1383585&past=all&version=1" width="70%" />
 </div>
 
 <!---
 [![Spotify](https://trackify.am/api/og/user?id=1383585&past=all&version=1)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
 
 [![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21sngcvfnm2hsogmv2rfut3kq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 --->
 
