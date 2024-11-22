@@ -12,20 +12,19 @@
    \ \__\ \__\ \_______\ \_______\ \__\\ \__\ \_______\   \ \__\
     \|__|\|__|\|_______|\|_______|\|__| \|__|\|_______|    \|__|
 ```
+<h4 align="left">Connect with me</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/thanawattalabtong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanawattalabtong/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21329842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21329842" height="30" width="40" /></a>
+</p>
+
+<br/>
 
 <h4 align="left">Song with me :)</h4>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21sngcvfnm2hsogmv2rfut3kq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="28%"/>
  <img src="https://trackify.am/api/og/user?id=1383585&past=all&version=1" width="70%" />
 </div>
-
-<br/>
-
-<h4 align="left">Connect with me</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/thanawattalabtong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanawattalabtong/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21329842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21329842" height="30" width="40" /></a>
-</p>
 
 <br/>
 
