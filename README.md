@@ -19,5 +19,6 @@
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
 ```
+[![Spotify](https://trackify.am/api/og/user?id=1383585&past=all)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
 
-[![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq)
+<!--- [![Spotify](https://novatorem-6wrfmlo52-algnot.vercel.app/api/spotify)](https://open.spotify.com/user/21sngcvfnm2hsogmv2rfut3kq) --->
