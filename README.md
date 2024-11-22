@@ -5,13 +5,10 @@
  \ \   __  \ \  \    \ \  \  __\ \  \\ \  \ \  \\\  \   \ \  \  
   \ \  \ \  \ \  \____\ \  \|\  \ \  \\ \  \ \  \\\  \   \ \  \ 
    \ \__\ \__\ \_______\ \_______\ \__\\ \__\ \_______\   \ \__\
-    \|__|\|__|\|_______|\|_______|\|__| \|__|\|_______|    \|__|                                                            
-                                                              
-```
-
-``` 
- - 🔭 I'm currently studying on KMITL!
- - 🌱 I'm currently learning Node.js, Python and other cool stuff!
+    \|__|\|__|\|_______|\|_______|\|__| \|__|\|_______|    \|__|
+ 
+ - 🔭 Welcome to my world :)
+ - 🌱 I'm currently using Node.js, Python, Golang and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 📫 How to reach me: 
       - [discord](https://discord.com/users/254255680612073473)  
