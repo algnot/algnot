@@ -33,8 +33,18 @@
 
 <br/>
 <h4 align="left">Time to coding</h4>
-<img align="left" src="https://stats.quira.sh/algnot/github?theme=dark" width="47%" />
-<img align="left" src="https://stats.quira.sh/algnot/languages-over-time?theme=dark" width="47%" />
+<h4 align="left">Time to Coding</h4>
+ <table>
+  <tr>
+   <td><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=algnot&show_icons=true&locale=en&icon_color=FF801F&text_color=9f9f9f&bg_color=282b36" alt="algnot" /></td>
+   <td><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=algnot&show_icons=true&locale=en&layout=compact&icon_color=FF801F&text_color=9f9f9f&bg_color=282b36" alt="algnot" /></td>
+  </tr>
+  <tr>
+   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=algnot&theme=dracula&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"></td>
+  </tr>
+ </table>
+
+<!--- <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=algnot&theme=dracula&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"> --->
 
 
 
