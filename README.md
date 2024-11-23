@@ -33,7 +33,6 @@
 
 <br/>
 <h4 align="left">Time to coding</h4>
-<h4 align="left">Time to Coding</h4>
  <table>
   <tr>
    <td><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=algnot&show_icons=true&locale=en&icon_color=FF801F&text_color=9f9f9f&bg_color=282b36" alt="algnot" /></td>
