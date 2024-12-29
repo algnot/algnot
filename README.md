@@ -23,7 +23,7 @@
 <h4 align="left">Song with me :)</h4>
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21sngcvfnm2hsogmv2rfut3kq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="28%"/>
- <img src="https://trackify.am/api/og/user?id=1383585&past=year&version=13" width="70%" />
+ <img src="https://trackify.am/api/og/user?id=1383585&past=year&version=14" width="70%" />
 </div>
 
 <br/>
