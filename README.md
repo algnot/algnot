@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Tongla</h2>
-<h4 align="center">A Backend Developer from LINE MAN Wongnai</h4>
+<h4 align="center">A Backend Developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algnot&label=Profile%20views&color=0e75b6&style=flat" alt="algnot" /> </p>
 
