@@ -39,7 +39,7 @@
    <td><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=algnot&show_icons=true&locale=en&layout=compact&icon_color=FF801F&text_color=9f9f9f&bg_color=282b36" alt="algnot" /></td>
   </tr>
   <tr>
-   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=algnot&theme=dracula&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"></td>
+   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=algnot&theme=dracula&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69&version=2"></td>
   </tr>
  </table>
 
